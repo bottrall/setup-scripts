@@ -26,10 +26,10 @@ brew install --cask discord
 brew install --cask docker
 brew install --cask iterm2
 brew install --cask logi-options-plus
-brew install --cask maccy
 brew install --cask messenger
 brew install --cask mongodb-compass
 brew install --cask nordvpn
+brew install --cask raycast
 brew install --cask spotify
 brew install --cask transmission
 brew install --cask visual-studio-code
