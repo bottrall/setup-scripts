@@ -21,7 +21,6 @@ brew install corepack
 corepack enable pnpm
 
 brew install --cask 1password
-brew install --cask arc
 brew install --cask discord
 brew install --cask docker
 brew install --cask iterm2
@@ -33,6 +32,7 @@ brew install --cask raycast
 brew install --cask spotify
 brew install --cask transmission
 brew install --cask visual-studio-code
+brew install --cask zen-browser
 
 brew tap homebrew/cask-fonts
 brew install --cask font-fira-code
